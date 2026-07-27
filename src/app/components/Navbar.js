@@ -83,7 +83,7 @@ export default function Navbar() {
             <div className="relative h-14 w-14 shrink-0">
               <Image
                 src="/logo.png"
-                alt="PulseOxy Logo"
+                alt="Preet Diagnostic Logo"
                 fill
                 priority
                 className="object-contain"
@@ -92,11 +92,11 @@ export default function Navbar() {
 
             <div className="ml-3">
               <h1 className="text-lg font-bold tracking-tight text-slate-900">
-                PULSEOXY
+                PREET 
               </h1>
 
               <p className="text-xs tracking-[0.15em] uppercase text-slate-500">
-                Lab Centre
+               Diagnostic Lab 
               </p>
             </div>
           </Link>

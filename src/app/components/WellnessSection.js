@@ -605,7 +605,6 @@ group-hover:translate-x-1
 
 
 </div>
-id="8f5y2n"
 {/* ================= CUSTOM PACKAGE CTA ================= */}
 
 <motion.div
