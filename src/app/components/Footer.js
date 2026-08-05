@@ -70,7 +70,7 @@ export default function Footer() {
 
             <Image
               src="/logo.png"
-              alt="preet Lab"
+              alt="sanjay Lab"
               fill
               className="object-contain p-2"
             />
@@ -80,11 +80,11 @@ export default function Footer() {
           <div>
 
             <h2 className="text-xl font-black tracking-tight text-slate-900 sm:text-2xl">
-              PREET 
+              SANJAY'S 
             </h2>
 
             <p className="text-sm text-slate-500">
-              Diagnostic Lab 
+              Shiv Lab 
             </p>
 
           </div>
@@ -392,7 +392,7 @@ export default function Footer() {
               © {new Date().getFullYear()}{" "}
 
               <span className="font-semibold text-slate-900">
-                PulseOxy Lab
+                Sanjay's Lab
               </span>
 
               . All rights reserved.

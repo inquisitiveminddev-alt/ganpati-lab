@@ -92,11 +92,11 @@ export default function Navbar() {
 
             <div className="ml-3">
               <h1 className="text-lg font-bold tracking-tight text-slate-900">
-                PREET 
+                SANJAY'S 
               </h1>
 
               <p className="text-xs tracking-[0.15em] uppercase text-slate-500">
-               Diagnostic Lab 
+               Shiv Lab 
               </p>
             </div>
           </Link>
