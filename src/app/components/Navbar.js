@@ -74,7 +74,6 @@ export default function Navbar() {
         }`}
       >
         <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6 lg:px-8">
-
           {/* Logo */}
           <Link
             href="/"
@@ -92,11 +91,11 @@ export default function Navbar() {
 
             <div className="ml-3">
               <h1 className="text-lg font-bold tracking-tight text-slate-900">
-                SANJAY'S 
+                GANPATI
               </h1>
 
               <p className="text-xs tracking-[0.15em] uppercase text-slate-500">
-               Shiv Lab 
+               Computerized Lab 
               </p>
             </div>
           </Link>
